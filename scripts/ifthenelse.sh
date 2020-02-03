@@ -5,7 +5,6 @@
 
 # Simple example of if then else and nested if statements.
 
-
 clear
 
 echo "Enter number between 1 and 3:"
