@@ -16,4 +16,10 @@ Shell Scripting Tutorials
 
 <h1> Conditional Statements </h1>
 
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/passing_variables.sh">Variables to Scripts at the Command Line</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/simpleif.sh">The IF Statement</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/ifthenelse.sh">if/then/else</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/forloop.sh">The FOR Statment</a><br />
+<a href="url">link text</a><br />
+<a href="url">link text</a><br />
 
