@@ -20,6 +20,6 @@ Shell Scripting Tutorials
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/simpleif.sh">The IF Statement</a><br />
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/ifthenelse.sh">if/then/else</a><br />
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/forloop.sh">The FOR Statment</a><br />
-<a href="url">link text</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/case-statement.sh">Using the Case Statement</a><br />
 <a href="url">link text</a><br />
 
