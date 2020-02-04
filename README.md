@@ -24,3 +24,9 @@ Shell Scripting Tutorials
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/whileloop.sh">While Looping</a><br />
 
 <h1> Input and Output </h1>
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/read.sh">Reading Files</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/descriptorandhandlers.sh">File Descriptors and Handlers</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/ifsdelim.sh">IFS and Delimiting</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/trapandsignals.sh">Traps and Signals</a><br />
+
+<h1> Error Handling </h1>
