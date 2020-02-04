@@ -23,3 +23,4 @@ Shell Scripting Tutorials
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/case-statement.sh">Using the Case Statement</a><br />
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/whileloop.sh">While Looping</a><br />
 
+<h1> Input and Output </h1>
