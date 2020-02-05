@@ -30,3 +30,9 @@ Shell Scripting Tutorials
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/trapandsignals.sh">Traps and Signals</a><br />
 
 <h1> Error Handling </h1>
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/errorandexit.sh">Error Handling with Exit</a><br />
+
+<h1> Functions </h1>
+
+<h1> Samples/Use Cases </h1>
+
