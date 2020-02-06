@@ -33,6 +33,10 @@ Shell Scripting Tutorials
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/errorandexit.sh">Error Handling with Exit</a><br />
 
 <h1> Functions </h1>
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/simplefunction.sh">Creating Function</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/functions_variables.sh">Variable Scope in Functions</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/function_parameters.sh">Functions with Parameters</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/nested_functions.sh">Nested Functions</a><br />
 
 <h1> Samples/Use Cases </h1>
 
