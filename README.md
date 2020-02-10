@@ -39,4 +39,8 @@ Shell Scripting Tutorials
 <a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/nested_functions.sh">Nested Functions</a><br />
 
 <h1> Samples/Use Cases </h1>
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/simple_infobox.sh">Simple Infobox<a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/display_message.sh">Displaying a Message Box</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/user_input_dialog.sh">A User Input Box</a><br />
+<a href="https://github.com/gnanda1/Shell-Scripting/blob/master/scripts/create_a_menu.sh">Creating a Menu</a><br />
 
